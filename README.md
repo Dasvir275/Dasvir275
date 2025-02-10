@@ -14,8 +14,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F75C7E&size=18&center=true&width=600&lines=🔒+Cybersecurity+Intern+with+expertise+in+Forensics+and+Blockchain;💻+Building+next-gen+web+apps+using+MERN+Stack;🚀+AI/ML+Projects+for+real-world+impact;🌟+Hackathon+Achievements:+SIH'23+Runner-Up" />
+</p>
+
+---
+
 ## 👩‍💻 About Me
-- 🔭 **Final Year B.Tech Student @ TIET, Patiala** (CGPA: 8.55)  
+- 🔭 **Final Year B.Tech Student @ TIET, Patiala** (CGPA: 8.5)  
 - 🌟 **Passionate about MERN Stack, Cybersecurity, AI/ML, and Blockchain.**  
 - 💼 Currently interning as a Cybersecurity Intern @ ItrustXforce.  
 - 🏆 **SIH'23 Runner-Up | HackIndore'24 Top 10 Finalist**.  
@@ -23,6 +29,10 @@
 ---
 
 ## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,js,cpp,python,git" />
+</p>
+
 - **Languages**: C++, SQL, JavaScript
 - **Frontend**: React.js, Next.js, Vite, Strapi
 - **Backend**: Node.js, Express.js
@@ -49,6 +59,10 @@
 ---
 
 ## 🏆 Achievements
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" />
+</p>
+
 - 🥈 Runner-up at **SIH'23**, Hyderabad.
 - 🎖️ Finalist (Top 10) at **HackIndore'24**, Indore (out of 1300+ teams).
 - 📈 Top Contributor in various university hackathons.
@@ -56,10 +70,11 @@
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Dasvir Singh](https://www.linkedin.com/in/dasvir-singh-aba95b255/)
-- **GitHub**: [Dasvir275](https://github.com/Dasvir275)
-- **LeetCode**: [Dasvir Singh](https://leetcode.com/u/dasvirsingh07/)
-- **Email**: [dasvirsingh07@gmail.com](mailto:dasvirsingh07@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dasvir-singh-aba95b255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Dasvir275"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/u/dasvirsingh07/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
 ---
 
@@ -78,4 +93,3 @@
 <p align="center">
   🌟 Contributions, Stars, and Followers inspire me to code more! Show your support by ⭐️ my repositories.
 </p>
-
